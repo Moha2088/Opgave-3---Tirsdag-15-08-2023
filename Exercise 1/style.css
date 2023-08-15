@@ -1,0 +1,30 @@
+.FBLogo {
+  width: 110px;
+}
+
+.boxes {
+  display: inline-block;
+  margin-left: 300px;
+}
+
+.male {
+  display: inline-block;
+  margin-left: 414px;
+}
+
+.radiomale {
+  margin-left: 18px;
+}
+
+.facebookbio {
+  width: 280px;
+}
+
+.female {
+  display: inline-block;
+  margin-left: 414px;
+}
+
+.Signup {
+  margin-left: 410px;
+}
